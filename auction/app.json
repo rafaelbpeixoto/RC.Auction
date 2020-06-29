@@ -1,0 +1,15 @@
+{
+    "id": "c8020f24-9809-42df-8b1b-fc8882650cee",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.4.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "Rafael Peixoto",
+        "homepage": "rafaelbpeixoto@gmail.com",
+        "support": "rafaelbpeixoto@gmail.com"
+    },
+    "name": "Auction",
+    "nameSlug": "auction",
+    "classFile": "AuctionApp.ts",
+    "description": "Auction / Reverse Auction App"
+}

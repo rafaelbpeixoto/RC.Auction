@@ -1,0 +1,6 @@
+{
+    "command_description_auction": "Start / stop / manage auction in current room",
+    "command_description_auction_finish": "CAUTION! Finish PERMANENTLY auction in current room",
+    "param_example_no_param": "No parameter needed",
+    "param_example_room_name": "auction name (room name)"
+}
